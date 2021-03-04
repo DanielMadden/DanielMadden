@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad&layout=compact&hide=html,css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&hide=html,css">
 </p>
 
 </p>
