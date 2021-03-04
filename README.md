@@ -1,9 +1,9 @@
-### Hi there 👋
+<center>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</center>
 <!-- 
 00e3ff,da00d5
 dd570e,8400c1
