@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,dd570e,8400c1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad)
 
 <!-- 
 00e3ff,da00d5
 dd570e,8400c1
+ff8746,832aad
 -->
 
 <!--
