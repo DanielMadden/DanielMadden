@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad&layout=compact&hide=html,css)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad&layout=compact&hide=html,css)
 
 </p>
 <!-- 
