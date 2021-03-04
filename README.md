@@ -1,9 +1,5 @@
-<p align="center">
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad&layout=compact&hide=html,css)
--->
-  
+https://www.linkedin.com/in/danielfpmadden/
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true">
 </p>
@@ -11,14 +7,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&hide=html,css">
 </p>
-
-</p>
 <!-- 
 00e3ff,da00d5
 dd570e,8400c1
 ff8746,832aad
 &text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad
 &text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad
+-->
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad&layout=compact&hide=html,css)
 -->
 
 <!--
