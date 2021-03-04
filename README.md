@@ -1,5 +1,9 @@
-<img align="center" width="100px" height="100px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" >
+<p align="center">
+<img width="100px" height="100px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" >
+
 https://www.linkedin.com/in/danielfpmadden/
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true">
