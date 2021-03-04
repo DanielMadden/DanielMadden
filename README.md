@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&bg_color=45,00d4ff,020024)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&text_color=white&title_color=white&bg_color=45,00d4ff,020024)
 
 <!--
 **DanielMadden/DanielMadden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
