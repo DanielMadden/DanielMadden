@@ -7,11 +7,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true&theme=dark">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&hide=html,css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&theme=dark&hide=html,css">
 </p>
 <!-- 
 00e3ff,da00d5
