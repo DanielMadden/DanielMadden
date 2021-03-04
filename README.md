@@ -1,4 +1,3 @@
-<p align="center">
 <img width="100px" height="100px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" >
 
 <p align="center">
@@ -7,11 +6,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&hide_border=true&theme=react">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&theme=dark&hide=html,css">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&hide_border=true&theme=react&hide=html,css">
 </p>
 <!-- 
 00e3ff,da00d5
