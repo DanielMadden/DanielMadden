@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielMadden&show_icons=true&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielMadden&text_color=fff&title_color=fff&icon_color=fff&bg_color=45,ff8746,832aad)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 
